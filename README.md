@@ -812,7 +812,7 @@ Deployment Process:
 
 ![Settings](./public/screenshots/Settings.png)
 
-#  Testing Checklist
+# Testing Checklist
 
 
 Before submission:
