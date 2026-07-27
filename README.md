@@ -2,7 +2,7 @@
 
 ## An AI-Powered Personal Communication Training Platform
 
-![Project Banner](./public/screenshots/banner.png)
+![Project Banner](./public/screenshots/banner_.png)
 
 ---
 
