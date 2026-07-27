@@ -909,7 +909,11 @@ https://github.com/Saidamin45
 
 Contributors List:
 
-My Dear cousion
+Please don't be confused both accounts belong to me:
+
+this is my old account and for this project I have made a new account
+while using the other one is the contributor.
+
 **GUL KHAN**
 
 https://github.com/24460gk
