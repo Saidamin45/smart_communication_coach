@@ -897,20 +897,30 @@ This project demonstrates practical implementation of:
 Owner:
 **SAID AMIN**
 
-Contributors List:
-My Dear cousion> **GUL KHAN**
-
-
-GitHub:
 https://github.com/Saidamin45
+
+Contributors List:
+
+My Dear cousion
+**GUL KHAN**
+
 https://github.com/24460gk
+
+
+
+
 
 
 ---
 
 
-
 # 📄 License
-Open Source 
 
-This project was developed as an individual academic final project.
+**Open Source**
+
+This project is developed as an individual academic final project for ACT AI.
+
+Contributions are appreciated. Feel free to reach out to us.
+
+Thank you!
+
