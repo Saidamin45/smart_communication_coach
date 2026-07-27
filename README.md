@@ -793,7 +793,7 @@ Deployment Process:
 
 ## Interview Coach
 
-![Interview](./public/screenshots/interviews.png)
+![Interviews](./public/screenshots/interviews.png)
 
 
 ## IELTS Coach
