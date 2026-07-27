@@ -780,14 +780,11 @@ Deployment Process:
 
 # 📸 Application Screenshots
 
-
-# 📸 Application Screenshots
-
 ## Landing Page
 
 ![Landing](./public/screenshots/Landing_page.png)
 
-## Landing Page
+## Dashboard Page
 
 ![Dashboard](./public/screenshots/Dashboard.png)
 
@@ -795,7 +792,7 @@ Deployment Process:
 
 ![Interview](./public/screenshots/Interviews.png)
 
-## Landing Page
+## Debate Page
 
 ![Debate](./public/screenshots/Debate.png)
 
