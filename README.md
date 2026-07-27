@@ -907,12 +907,7 @@ Owner:
 
 https://github.com/Saidamin45
 
-Contributors List:
 
-My Dear cousion
-**GUL KHAN**
-
-https://github.com/24460gk
 
 
 
