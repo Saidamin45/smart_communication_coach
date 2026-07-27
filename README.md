@@ -810,7 +810,7 @@ Deployment Process:
 
 ## Settings
 
-![Settings](./public/screenshots/Settings.png)
+![settings](./public/screenshots/settings.png)
 
 # Testing Checklist
 
