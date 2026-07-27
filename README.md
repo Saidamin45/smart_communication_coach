@@ -806,7 +806,7 @@ Deployment Process:
 
 ## Profile
 
-![Profile](./public/screenshots/Profile.png)
+![profile](./public/screenshots/profile.png)
 
 ## Settings
 
