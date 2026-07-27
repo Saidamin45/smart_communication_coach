@@ -701,7 +701,7 @@ Implemented:
 ## Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/ai-communication-coach.git
+git clone https://github.com/Saidamin45/ai-communication-coach.git
 ```
 
 
@@ -786,9 +786,9 @@ Deployment Process:
 ![Landing](./public/screenshots/landing_page.png)
 
 
-## Dashboard
+## Interview Coach
 
-![Dashboard](./public/screenshots/dashboard.png)
+![Dashboard](./public/screenshots/Dashboard.png)
 
 
 ## Interview Coach
