@@ -2,7 +2,7 @@
 
 ## An AI-Powered Personal Communication Training Platform
 
-![Project Banner](./public/screenshots/banner.png)
+![Project Banner](./public/screenshots/Banner.png)
 
 ---
 
@@ -781,40 +781,39 @@ Deployment Process:
 # 📸 Application Screenshots
 
 
+# 📸 Application Screenshots
+
 ## Landing Page
 
-![Landing](./public/screenshots/landing_page.png)
+![Landing](./public/screenshots/Landing_page.png)
 
-
-## Interview Coach
+## Landing Page
 
 ![Dashboard](./public/screenshots/Dashboard.png)
 
-
 ## Interview Coach
 
-![Interviews](./public/screenshots/interviews.png)
+![Interview](./public/screenshots/Interviews.png)
 
+## Landing Page
+
+![Debate](./public/screenshots/Debate.png)
 
 ## IELTS Coach
 
 ![IELTS](./public/screenshots/IELTS.png)
 
-
-## Debate Coach
-
-![Debate](./public/screenshots/debate.png)
-
 ## History
-![Debate](./public/screenshots/history.png)
+
+![History](./public/screenshots/History.png)
 
 ## Profile
-![Debate](./public/screenshots/Profile.png)
+
+![Profile](./public/screenshots/Profile.png)
 
 ## Settings
-![Debate](./public/screenshots/Settings.png)
 
----
+![Settings](./public/screenshots/Settings.png)
 
 #  Testing Checklist
 
