@@ -1,4 +1,4 @@
-# 🚀 AI Communication Coach
+#  AI Communication Coach
 
 ## An AI-Powered Personal Communication Training Platform
 
@@ -6,13 +6,13 @@
 
 ---
 
-# 🌐 Live Application
+#  Live Application
 
 **Live Demo:**  
-https://YOUR_URL.vercel.app
+https://ai-communication-coach-1.ai.studio/
 
 **GitHub Repository:**  
-https://github.com/YOUR_USERNAME/ai-communication-coach
+https://github.com/Saidamin45/smart-communication-coach.git
 
 ---
 
@@ -34,7 +34,7 @@ The system analyzes user responses, identifies weaknesses, tracks improvement, a
 
 ---
 
-# 🎯 Motivation and Problem Statement
+#  Motivation and Problem Statement
 
 ## The Problem
 
@@ -74,7 +74,7 @@ There is no single platform that builds a complete communication profile.
 
 ---
 
-# 💡 Proposed Solution
+# Proposed Solution
 
 AI Communication Coach solves this problem by creating an AI-powered communication training ecosystem.
 
@@ -410,7 +410,7 @@ The goal:
 
 ---
 
-# 🧠 Artificial Intelligence Implementation
+#  Artificial Intelligence Implementation
 
 ## AI Model
 
@@ -477,7 +477,7 @@ Return structured JSON reports.
 
 ---
 
-# 🏗️ System Architecture
+#  System Architecture
 
 
 ```
@@ -524,7 +524,7 @@ Return structured JSON reports.
 
 ---
 
-# 🛠️ Technology Stack
+# Technology Stack
 
 
 ## Frontend
@@ -572,7 +572,7 @@ Return structured JSON reports.
 
 ---
 
-# 📂 Project Structure
+# Project Structure
 
 
 ```
@@ -608,7 +608,7 @@ AI-Communication-Coach
 
 ---
 
-# 🗄️ Database Design
+#  Database Design
 
 
 ## Users Collection
@@ -675,7 +675,7 @@ recommendations
 
 ---
 
-# 🔐 Security
+#  Security
 
 The application follows security best practices.
 
@@ -695,7 +695,7 @@ Implemented:
 
 ---
 
-# 🚀 Installation Guide
+#  Installation Guide
 
 
 ## Clone Repository
@@ -758,11 +758,12 @@ http://localhost:3000
 
 ---
 
-# 🌍 Deployment
+#  Deployment
 
 
-The application is deployed using Vercel.
-
+The application is deployed using google studio.
+But you can also deploy at Vercel:
+For Vercel follow the steps:
 
 Deployment Process:
 
@@ -807,7 +808,7 @@ Deployment Process:
 
 ---
 
-# 🧪 Testing Checklist
+#  Testing Checklist
 
 
 Before submission:
@@ -838,7 +839,7 @@ Before submission:
 
 ---
 
-# 🔮 Future Improvements
+#  Future Improvements
 
 
 Possible future features:
@@ -877,7 +878,7 @@ Create Android and iOS versions.
 
 ---
 
-# 🎓 Academic Value
+# Academic Value
 
 This project demonstrates practical implementation of:
 
@@ -892,17 +893,24 @@ This project demonstrates practical implementation of:
 
 ---
 
-# 👨‍💻 Developer
+# Developer
+Owner:
+**SAID AMIN**
 
-**YOUR NAME**
+Contributors List:
+My Dear cousion> **GUL KHAN**
+
 
 GitHub:
-
-https://github.com/YOUR_USERNAME
+https://github.com/Saidamin45
+https://github.com/24460gk
 
 
 ---
 
+
+
 # 📄 License
+Open Source 
 
 This project was developed as an individual academic final project.
